@@ -1,0 +1,2 @@
+# com.life.accumulate
+accumulate
